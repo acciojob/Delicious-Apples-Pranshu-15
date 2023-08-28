@@ -1,1 +1,21 @@
 /* your code here */
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+body{
+	background-color:#10E37F;
+}
+.product__photo{
+	width:100px;
+	height:100px;
+	background:red;
+	display:flex;
+}
+.photo-main{
+	width:100px;
+	height:100px;
+	background:black;
+	position
+}
